@@ -450,6 +450,10 @@ Version:	1.1
 	content: "";
 	z-index: -2;
 }
+#about-me .single-skill img{
+	margin-top: 15px;
+	border-radius: 8%;
+}
 #personal-area .personal-text {
 	display: -webkit-box;
 	display: -ms-flexbox;
